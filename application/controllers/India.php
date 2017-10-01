@@ -9,9 +9,8 @@ class India extends CI_Controller
 	}
 
 	/**
-	 * Alpha Regular Controller
-     * Small Changed
-	 */
+	 * India COntroller
+         */
 	public function index()
 	{
         // The following should be a relative link to your image file above
