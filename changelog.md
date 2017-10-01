@@ -9,6 +9,7 @@ Log Steps:
 -> Completed Bravo Issue #2 ~Harshita
 -> Completed Charlie Issue #3 ~Takito
 -> Completed Delta Issue #4 ~Harshita
+-> Completed Echo Issue #5 ~Takito
 -> Completed Foxtrot Issue #6 ~Harshita
 -> Completed Golf Issue #7. It don't work pass localhost/i/randomword ~Takito
 -> Completed Hotel Issue #8 ~Harshita
