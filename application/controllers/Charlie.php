@@ -10,9 +10,8 @@ class Charlie extends Application
 	}
 
 	/**
-	 * Alpha Regular Controller
-     * Small Changed
-	 */
+	 * Charlie Controller
+         */
 	public function brown()
 	{
 		$this->show(3);
