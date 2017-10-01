@@ -11,7 +11,7 @@ class Golf extends Application
 
 	/**
 	 * Alpha Regular Controller
-     * Small Changed
+         * Small Changed
 	 */
 	public function index()
 	{
