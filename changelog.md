@@ -1,7 +1,7 @@
 Harshita - Captain
 Takito (Hiram) - Programming Minion
 
-Version 5.0
+Version 6.0
 
 Log Steps:
 
@@ -12,3 +12,4 @@ Log Steps:
 -> Completed Foxtrot Issue #6 ~Harshita
 -> Completed Golf Issue #7. It don't work pass localhost/i/randomword ~Takito
 -> Completed India Issue #9. ~Takito
+-> Completed Kilo Issue #11 ~Takito
