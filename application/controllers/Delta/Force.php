@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Able extends Application
+class Force extends Application
 {
 
 	function __construct()
@@ -10,12 +10,10 @@ class Able extends Application
 	}
 
 	/**
-	 * Alpha Regular Controller
-         * Small Changed
+	 * Homepage for our Bravo
 	 */
-	public function index()
-	{
-		$this->show(1);
-	}
+	public function index() {
+            $this->show(4);
+        }
 
 }
