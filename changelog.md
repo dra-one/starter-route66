@@ -13,4 +13,5 @@ Log Steps:
 -> Completed Golf Issue #7. It don't work pass localhost/i/randomword ~Takito
 -> Completed Hotel Issue #8 ~Harshita
 -> Completed India Issue #9. ~Takito
+-> Completed Juliet Issue #10 ~Harshita
 -> Completed Kilo Issue #11 ~Takito

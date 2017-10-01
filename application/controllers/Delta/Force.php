@@ -10,7 +10,7 @@ class Force extends Application
 	}
 
 	/**
-	 * Homepage for our Bravo
+	 * Shows the Delta/Force controller page
 	 */
 	public function index() {
             $this->show(4);
