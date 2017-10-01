@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Able extends Application
+class Tango extends Application
 {
 
 	function __construct()
@@ -9,13 +9,10 @@ class Able extends Application
 		parent::__construct();
 	}
 
-	/**
-	 * Alpha Regular Controller
-         * Small Changed
-	 */
 	public function index()
 	{
-		$this->show(1);
+		// this is the view we want shown
+		$this->show(5);
 	}
 
 }
